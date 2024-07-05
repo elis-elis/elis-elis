@@ -28,7 +28,7 @@ const e. = {
 };
 ```
 
-You can reach me also here : <br />
+You can find or reach me also here : <br />
 <a href="mailto:elisprostotak@gmail.com" target="_blank" rel="email_gmail">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="33" />
 </a> <br />
@@ -36,6 +36,5 @@ You can reach me also here : <br />
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="33" />
 </a> <br />
 <a href="https://www.buymeacoffee.com/elis_nothing" target="_blank" rel="buy me a mango!!">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Mango" height="33" width="130" >
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Mango" height="33" width="130" />
 </a>
-
