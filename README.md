@@ -1,6 +1,6 @@
 ##
 <h1 align="right">Hello there.  <br /> 
-  and thanks for checking out my page. <br />
+  nice to see you here. <br />
   I am 'E.' <br />
 </a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
@@ -14,10 +14,12 @@ It would be lovely to collaborate on some projects and learn together in the fut
 I am planning to concentrate on frontend development. I come from vibratnt creative background, and still practice performance art, poetry, and vodeo art. 
 
 You can reach me also here : 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/elis_prostotak/)
 <a href="mailto:elisprostotak@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
+<a href="https://www.instagram.com/elis_prostotak/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40" />
+</a>
 <a href="https://www.buymeacoffee.com/elis_nothing" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Mango" height="40" width="130" >
-    </a>
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Mango" height="40" width="130" >
+</a>
