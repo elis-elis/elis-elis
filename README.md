@@ -9,9 +9,7 @@ I am planning to concentrate of frontend development, although at the moment I a
 
 You can reach me also here : 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/elis_prostotak/)
-  <a href="elisprostotak@gmail.com">
-      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
+  [![Gmail Badge](https://img.shields.io/badge/-elisprostotak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elisprostotak@gmail.com)](mailto:elisprostotak@gmail.com)
 <a href="https://www.buymeacoffee.com/elis_nothing" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Mango" height="29" width="130" >
     </a>
