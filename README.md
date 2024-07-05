@@ -4,8 +4,8 @@ I am Elis. I am new in the programing environment but I feel that this 'stuff' b
 
 I’m currently studying Sofware engeneering at MasterSchool. and I am doing pretty well ;) 
 
-It would be lovely to collaborate on some projects and learn together in the futuure or even now.
-I am planning to concentrate of frontend development, although at the moment I am still working with python mostly.
+It would be lovely to collaborate on some projects and learn together in the future or even now.
+I am planning to concentrate on frontend development, although at the moment I am still working with python mostly.
 
 You can reach me also here : 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/elis_prostotak/)
