@@ -1,7 +1,7 @@
 ##
 <h1 align="right">Hello.  <br /> 
   nice to see you here. <br />
-  I am 'E.' <br />
+  I am 'e.' <br />
 </a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 but you can call me Elis</h1>
