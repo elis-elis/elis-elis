@@ -6,9 +6,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 but you can call me Elis</h1>
 
-I am new in the programing environment but I feel that this 'stuff' belongs in me. 
-
-I’m currently studying sofware engeneering at MasterSchool. and I am doing pretty well ;) 
+Currently I am a student of sofware/web development at MasterSchool.
 
 It would be lovely to collaborate on some projects and learn together in the future or even now. <br />
 I am planning to concentrate on frontend development. I come from vibratnt creative background, and still practice performance art, poetry, and vodeo art. 
