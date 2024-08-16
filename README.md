@@ -1,10 +1,9 @@
 ##
-<h1 align="right">Hello.  <br /> 
-  nice to see you here. <br />
+<h1 align="right">Salut, dear(s).  <br /> 
   I am 'e.' <br />
 </a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
-but you can call me Elis</h1>
+but you can call me Elis ;)</h1>
 
 Currently I am a student of sofware/web development at MasterSchool.
 
@@ -15,8 +14,8 @@ I am planning to concentrate on frontend development. I come from vibratnt creat
 
 ```javascript
 const e. = {
-    pronouns: she, but i don't care actually.
-    code: ["Python",],
+    pronouns: she, but i don't put on this subject a lot of emphesis.
+    code: ["Python", "CSS", "HTML"],
     askMeAbout: ["contemporary art", "visual philosophy", "life", "debugging", "anatomy"],
     technologies: {
         ["Photoshop", "Adobe Premier Pro",],
