@@ -35,3 +35,13 @@ You can find or reach me also here : <br />
 <a href="https://www.buymeacoffee.com/elis_nothing" target="_blank" rel="buy me a mango!!">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Mango" height="33" width="130" />
 </a>
+
+<b> Programming languages and tools: </b> <br>
+<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=VS%20Code"/> 
+<img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT"/> 
+<img src="https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=MySQL&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoSize=auto"/> 
