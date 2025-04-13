@@ -22,17 +22,23 @@ You can find or reach me also here : <br /> <br />
 </a>
 
 <b> Programming language(s) and tools: </br> </br>
+<img src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=Typescript"/> 
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoSize=auto"/> 
-<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=VS%20Code"/>
+
+<img src="https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=Flask&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=FastAPI&logoSize=auto"/>
+<img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=Fastify&logoSize=auto"/>
+
 <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML&logoSize=auto"/>
 <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=CSS&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=MySQL&logoSize=auto"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoSize=auto"/>
+
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT"/> 
-<img src="https://img.shields.io/badge/MySQL-green?style=for-the-badge&logo=MySQL&logoSize=auto"/> 
 <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoSize=auto"/> 
-<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoSize=auto"/> 
-<img src="https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=Flask&logoSize=auto"/> 
-<img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=FastAPI&logoSize=auto"/> 
+<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoSize=auto"/>
+<img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=VS%20Code"/>
+
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-white?style=for-the-badge&logo=Adobe%20Photoshop"/> 
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-white?style=for-the-badge&logo=Adobe%20Premiere%20Pro"/> 
-
 
